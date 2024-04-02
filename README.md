@@ -58,7 +58,7 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
 <ul>
  <li><b>ODE (Optical Drive Emulator)</b>
   <br>
-  The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>iso</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Alltynex" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.iso</tt>.
+  The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.iso</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Alltynex" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.iso</tt>.
   <br><br>
  </li>
  <li><b>Emulator</b>
