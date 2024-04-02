@@ -20,7 +20,7 @@ This patch targets the hard-drive image named <tt>Alltynex.h0</tt> distributed b
 <br><br>
 To apply this patch, download the <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases">latest release</a> and extract it to a folder of your choosing.
 <br><br>
-Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_patch.bat</tt> script. This will produce <tt>Alltynex (T-En v1.0).iso</tt> with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
+Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_patch.bat</tt> script. This will produce <tt>Alltynex (T-En v1.0).iso</tt> with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>.
 
 <h2>Credits</h2>
 <ul>
