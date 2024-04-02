@@ -3,7 +3,7 @@
 <br><br>
 "Alltynex" was originally distributed for hard-drive installation on 486 FM Towns computers. However, a self-booting CD-ROM disc image was compiled by <a href="https://nfggames.com/forum2/index.php?action=profile;u=4501">Anna Wu</a>. Due to this custom disc image's use of TOWNS OS V2.1 L51, the consolized FM Towns Marty was unable to boot it.
 <br><br>
-Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch, using TOWNS OS V2.1 L40, so that it can be used on the Marty, even with slowdown. This also future-proofs this patch should future modifications to the Marty allow for a sensible CPU upgrade.
+Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch using TOWNS OS V2.1 L40 so that it can be used on the Marty, even with slowdown. This also future-proofs this patch should future modifications to the Marty allow for a sensible CPU upgrade.
 <br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases/download/1.0/Alltynex.T-En.v1.0.zip">1.0</a>.
 
