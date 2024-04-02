@@ -1,5 +1,7 @@
 <h1>Alltynex</h1>
-<img width="165" height="124" align="right" src="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/blob/main/title_screen.png?raw=true">English translation patch for the doujin shooting game "Alltynex" on the FM Towns/FM Towns Marty, created and developed by Satoshi Yoshida.
+<img width="165" height="124" align="right" src="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/blob/main/title_screen.png?raw=true">English translation patch for the doujin shooting game "Alltynex" on the FM Towns, created and developed by Satoshi Yoshida.
+<br><br>
+"Alltynex" was originally distributed for hard drive installation on 486 FM Towns computers. However, a self-booting CD-ROM disc image was compiled by <a href="https://nfggames.com/forum2/index.php?action=profile;u=4501">Anna Wu</a>. Due to this custom disc image's use of TOWNS OS V2.1 L51, the consolized FM Towns Marty was unable to boot it. Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch, using TOWNS OS V2.1 L40, so that it can be used on the Marty, even with slowdown.
 <br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.91/Temptation.T-En.v0.91.xdelta">1.0</a>.
 
@@ -9,34 +11,20 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
-5. [To-Do](#to-do)
-6. [Launch Trailer](#launch-trailer)
-7. [About the Game](#about-the-game)
-8. [How to Play](#how-to-play)
-9. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
-10. [Walkthrough](#walkthrough)
+5. [How to Play](#how-to-play)
 
 <h2>Patching Instructions</h2>
-<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Yuuwaku (Japan).bin</tt> has an MD5 checksum of <tt>20D34726931FEF02365E79C66D739B72</tt>.
+This patch targets the hard-drive image named "Alltynex.h0" distributed by the "Neo Kobe" set of FM Towns/Marty software. Its original MD5 checksum is <tt>87527376B66A8E895D25B33C4C41E2A6</tt>.
 <br><br>
-<ol type="1">
-<li>Click the settings icon (appears as a gear) and enable "Backup original file" and "Checksum validation".</li>
-<li>Click the "Original file" browse icon and select the unmodified <tt>Yuuwaku (Japan).bin</tt> file.</li>
-<li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
-<li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>BE62706C42500918A9AA0C2B34725809</tt>.</li>
-</ol>
+To apply this patch, download the <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases">latest release</a> and extract it to a folder of your choosing.
+<br><br>
+Next, copy "Alltynex.h0" into the same folder and launch the "apply_patch.bat" script. This will produce "Alltynex (T-En v1.0).iso" with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
 
 <h2>Credits</h2>
 <ul>
- <li><b>Hacking / Editing</b></li>
+ <li><b>Hacking</b></li>
   <ul>
    <li>Derek Pascarella (ateam)</li>
-  </ul>
- <br>
- <li><b>Playtesting / Editing</b></li>
-  <ul>
-   <li>Jon R. (OMPeaRetro)</li>
   </ul>
  <br>
  <li><b>Translation</b></li>
@@ -47,11 +35,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 0.91 (2024-02-14)</li>
- <ul>
-  <li>Fixed bug that incorrectly displayed yen currency symbol.</li>
- </ul>
- <li>Version 0.9 (2023-09-29)</li>
+ <li>Version 1.0 (2024-04-02)</li>
  <ul>
   <li>Initial release.</li>
  </ul>
@@ -59,71 +43,14 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>What's Changed</h2>
 <ul>
- <li>Dialogue text has been translated into English.</li>
- <li>Save/load menu text has been translated into English.</li>
- <li>Action option text been translated into English.</li>
- <li>Several dialogue text bugs were fixed.</li>
+ <li>TOWNS OS V2.1 L40 and its libraries used so that disc image can be booted on Marty.</li>
+   <ul>
+    <li>Note that there is significant slowdown on both the Marty and any 386 FM Towns.</li>
+   </ul>
+ <li>Opening and closing scene text has been translated into English.</li>
+ <li>Menu text has been altered from original "Engrish" spellings and grammar.</li>
+ <li>Stage opening and closing text has been altered from original "Engrish" spellings and grammar.</li>
 </ul>
-
-<h2>To-Do</h2>
-Due to the game's use of an unidentified graphic format, two items remain untranslated as of version 0.91 of this patch.
-<br><br>
-<ul>
-<li><b>Title Screen Logo and Text</b>
- <br><br>
- <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/title.jpg?raw=true">
- <br><br>
- <i>Temptation - © 1995 Hiroyuki Utatane / Akane Shinsha / T2 Co., Ltd.</i>
- <br><br>
-</li>
-<li><b>End Screen Text</b>
- <br><br>
- <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/end.jpg?raw=true">
- <br><br>
- <i>May our love last forever...</i></li>
-</ul>
-
-<h2>Launch Trailer</h2>
-Watch the launch trailer created by project team member Jon R. of <a href="https://ompearetro.com/">OMPeaRetro.com</a>.
-<br><br>
-<a href="https://www.youtube.com/watch?v=ip9-w6a0qg4"><img width="500" height="360" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/trailer.jpg?raw=true" border="0"></a>
-
-<h2>About the Game</h2>
-<table>
-<tr>
-<td><b>Original Title</b></td>
-<td>Yuuwaku (誘惑)</td>
-</tr>
-<tr>
-<td><b>Localized Title</b></td>
-<td>Temptation</td>
-</tr>
-<tr>
-<td><b>Developer</b></td>
-<td>T2 Co., Ltd.</td>
-</tr>
-<tr>
-<td><b>Publisher</b></td>
-<td>T2 Co., Ltd.</td>
-</tr>
-<tr>
-<td><b>Contributors</b></td>
-<td><a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">Original managa</a> artist <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> and publisher <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a></td>
-</tr>
-<tr>
-<td><b>Rating</b></td>
-<td>Adult</td>
-</tr>
-<tr>
-<td><b>Release Date</b></td>
-<td>1996</td>
-</tr>
-<tr>
-<td><b>Compatibility</b></td>
-<td>FM Towns<br>FM Towns Marty</td>
-</tr>
-</tr>
-</table>
 
 <h2>How to Play</h2>
 <ul>
@@ -141,21 +68,3 @@ Watch the launch trailer created by project team member Jon R. of <a href="https
   <br><br>
   ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).d88">Temptation (User Disk).d88</a>
 </ul>
-
-<h2>A Note on Controller Compatibility</h2>
-As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
-<br><br>
-Note that when playing on Marty, any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
-<br><br>
-On other FM Towns machines, the controller can remain plugged in. However, it will not be functional. If neither keyboard nor mouse is present, the controller will be functional, but ghost input will be experienced.
-<br><br>
-Ultimately, it's advised to use either the keyboard or mouse alone to play the game.
-<br><br>
-<ul>
- <li><b>Keyboard:</b> Compatible</li>
- <li><b>Mouse:</b> Compatible</li>
- <li><b>Controller:</b> Incompatible</li>
-</ul>
-
-<h2>Walkthrough</h2>
-While it's suggested that players experience the game for the first time without any outside assistance, those wishing to replay the game and explore all possible scenarios can refer to the <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/misc/walkthrough.pdf">Quick Walkthrough Guide</a>.
