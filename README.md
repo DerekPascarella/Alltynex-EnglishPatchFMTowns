@@ -50,6 +50,7 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
     <li>Note that there is significant slowdown on both the Marty and any 386 FM Towns.</li>
    </ul>
  <li>Opening and closing scene text has been translated into English.</li>
+ <li>Staff credits have been translated into English.</li>
  <li>Menu text has been altered from original "Engrish" spellings and grammar.</li>
  <li>Stage opening and closing text has been altered from original "Engrish" spellings and grammar.</li>
 </ul>
