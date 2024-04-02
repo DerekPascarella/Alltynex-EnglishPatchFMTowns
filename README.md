@@ -14,11 +14,11 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 5. [How to Play](#how-to-play)
 
 <h2>Patching Instructions</h2>
-This patch targets the hard-drive image named "Alltynex.h0" distributed by the "Neo Kobe" set of FM Towns/Marty software. Its original MD5 checksum is <tt>87527376B66A8E895D25B33C4C41E2A6</tt>.
+This patch targets the hard-drive image named <tt>Alltynex.h0</tt> distributed by the "Neo Kobe" set of FM Towns/Marty software. Its original MD5 checksum is <tt>87527376B66A8E895D25B33C4C41E2A6</tt>.
 <br><br>
 To apply this patch, download the <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases">latest release</a> and extract it to a folder of your choosing.
 <br><br>
-Next, copy "Alltynex.h0" into the same folder and launch the "apply_patch.bat" script. This will produce "Alltynex (T-En v1.0).iso" with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
+Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_patch.bat</tt>tt> script. This will produce "Alltynex (T-En v1.0).iso" with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
 
 <h2>Credits</h2>
 <ul>
@@ -56,15 +56,9 @@ Next, copy "Alltynex.h0" into the same folder and launch the "apply_patch.bat" s
 <ul>
  <li><b>ODE (Optical Drive Emulator)</b>
   <br>
-  The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Temptation" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.
-  <br><br>
-  This game, like many on the FM Towns, requires a user disk to boot the game disc. Note that progress can also be saved to the same disk. For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), download disk image below.
-  <br><br>
-  ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).hfe">Temptation (User Disk).hfe</a>
+  The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>iso</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Alltynex" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.iso</tt>.
   <br><br>
  </li>
  <li><b>Emulator</b>
-  <br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  This game, like many on the FM Towns, requires a user disk to boot the game disc. Note that progress can also be saved to the same disk. The following disk image has been tested and confirmed working with Tsugaru.
-  <br><br>
-  ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).d88">Temptation (User Disk).d88</a>
+  <br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well. Note that Tsugaru should be configured to use a 486 CPU for optimal game performance.
 </ul>
