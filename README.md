@@ -1,11 +1,7 @@
 <h1>Alltynex</h1>
-<img width="165" height="228" align="right" src="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/blob/main/title_screen.png?raw=true">English translation patch for the eroge visual novel adventure game "Temptation" on the FM Towns/FM Towns Marty, based on the <a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">original adult manga</a> by <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a>.
+<img width="165" height="124" align="right" src="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/blob/main/title_screen.png?raw=true">English translation patch for the doujin shooting game "Alltynex" on the FM Towns/FM Towns Marty, created and developed by Satoshi Yoshida.
 <br><br>
-Players assume the role of private eye Kyo Saeki, a former police detective who's left the force to go into business for himself. The detective is a big fan of video games, and loves spending time at the local arcade (called "Spot 31") practicing his skills in the latest fighting games. He's also got a weakness for life's vices, such as drinking, smoking, gambling, and of course, women.
-<br><br>
-One day, a young woman visits his office requesting that he take on her case. The crime? A painting belonging to her late father has gone missing, likely stolen by her step-mother. The hero must solve his client's family mystery by gleaning clues through romantic encounters with women in town.
-<br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.91/Temptation.T-En.v0.91.xdelta">0.91</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.91/Temptation.T-En.v0.91.xdelta">1.0</a>.
 
 <h2>Table of Contents</h2>
 
