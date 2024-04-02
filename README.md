@@ -1,7 +1,9 @@
 <h1>Alltynex</h1>
 <img width="165" height="124" align="right" src="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/blob/main/title_screen.png?raw=true">English translation patch for the doujin shooting game "Alltynex" on the FM Towns, created and developed by Satoshi Yoshida.
 <br><br>
-"Alltynex" was originally distributed for hard drive installation on 486 FM Towns computers. However, a self-booting CD-ROM disc image was compiled by <a href="https://nfggames.com/forum2/index.php?action=profile;u=4501">Anna Wu</a>. Due to this custom disc image's use of TOWNS OS V2.1 L51, the consolized FM Towns Marty was unable to boot it. Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch, using TOWNS OS V2.1 L40, so that it can be used on the Marty, even with slowdown.
+"Alltynex" was originally distributed for hard drive installation on 486 FM Towns computers. However, a self-booting CD-ROM disc image was compiled by <a href="https://nfggames.com/forum2/index.php?action=profile;u=4501">Anna Wu</a>. Due to this custom disc image's use of TOWNS OS V2.1 L51, the consolized FM Towns Marty was unable to boot it.
+<br><br>
+Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch, using TOWNS OS V2.1 L40, so that it can be used on the Marty, even with slowdown. This also future-proofs this patch should future modifications to the Marty allow for a sensible CPU upgrade.
 <br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.91/Temptation.T-En.v0.91.xdelta">1.0</a>.
 
@@ -18,7 +20,7 @@ This patch targets the hard-drive image named <tt>Alltynex.h0</tt> distributed b
 <br><br>
 To apply this patch, download the <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases">latest release</a> and extract it to a folder of your choosing.
 <br><br>
-Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_patch.bat</tt>tt> script. This will produce "Alltynex (T-En v1.0).iso" with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
+Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_patch.bat</tt> script. This will produce "Alltynex (T-En v1.0).iso" with an MD5 checksum of <tt>FAF881AC83FD2A15D738799408240141</tt>
 
 <h2>Credits</h2>
 <ul>
