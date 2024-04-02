@@ -47,7 +47,7 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
 <ul>
  <li>TOWNS OS V2.1 L40 and its libraries used so that disc image can be booted on Marty.</li>
    <ul>
-    <li>Note that there is significant slowdown and graphical corruption in the options menu on any 386 FM Towns (including the Marty).</li>
+    <li>Note that there is significant slowdown on any 386 FM Towns (including the Marty), as well as graphical corruption in the options menu.</li>
    </ul>
  <li>Opening and closing scene text has been translated into English.</li>
  <li>Staff credits have been translated into English.</li>
