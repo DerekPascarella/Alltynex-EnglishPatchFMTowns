@@ -5,6 +5,8 @@
 <br><br>
 Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "Alltynex" requires a 486 CPU for full-speed gameplay. However, a new version of this self-booting disc image was created for this patch using TOWNS OS V2.1 L40 so that it can be used on the Marty, even with slowdown. This also future-proofs this patch should future modifications to the Marty allow for a sensible CPU upgrade.
 <br><br>
+Note that non-Marty 386 FM Towns units can still achieve full-speed gameplay under certain conditions (described in the <a href="#whats-changed">What's Changed</a> section).
+<br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases/download/1.1/Alltynex.T-En.v1.1.zip">1.1</a>.
 
 <h2>Table of Contents</h2>
