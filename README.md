@@ -39,7 +39,7 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
 
 <h2>Release Changelog</h2>
 <ul>
- <li><b>Version 1.2 (2024-03-11)</b></li>
+ <li><b>Version 1.2 (2025-03-11)</b></li>
  <ul>
   <li>Fixed difficulty setting from reading "NOMAL" instead of "NORMAL".</li>
  </ul>
