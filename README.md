@@ -7,7 +7,7 @@ Given the Marty includes a 386 CPU, this is seen largely as a non-issue, as "All
 <br><br>
 Note that non-Marty 386 FM Towns units can still achieve full-speed gameplay under certain conditions (described in the <a href="#whats-changed">What's Changed</a> section).
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases/download/1.1/Alltynex.T-En.v1.1.zip">1.1</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/Alltynex-EnglishPatchFMTowns/releases/download/1.2/Alltynex.T-En.v1.2.zip">1.2</a>.
 
 <h2>Table of Contents</h2>
 
@@ -39,11 +39,15 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.1 (2024-04-03)</li>
+ <li><b>Version 1.2 (2024-03-11)</b></li>
+ <ul>
+  <li>Fixed difficulty setting from reading "NOMAL" instead of "NORMAL".</li>
+ </ul>
+ <li><b>Version 1.1 (2024-04-03)</b></li>
  <ul>
   <li>Fixed several text formatting problems.</li>
  </ul>
- <li>Version 1.0 (2024-04-02)</li>
+ <li><b>Version 1.0 (2024-04-02)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
