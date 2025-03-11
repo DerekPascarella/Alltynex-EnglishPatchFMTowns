@@ -53,7 +53,7 @@ Next, copy <tt>Alltynex.h0</tt> into the same folder and launch the <tt>apply_pa
 <ul>
  <li>TOWNS OS V2.1 L40 and its libraries used so that disc image can be booted on Marty.</li>
    <ul>
-    <li>Note that there is significant slowdown on any 386 FM Towns (including the Marty), as well as graphical corruption in the options menu. However, those with a 386 unit who are using the <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODE can boot the game from the Spellbook menu by pressing B to enable <a href="https://gdemu.wordpress.com/2021/04/11/a-dashing-enigma/">fast mode</a>. Additionally, the "WAIT" setting in the options menu should be set to "HALF". These two combined steps will allow non-Marty 386 FM Towns machines to play the game at full speed.</li>
+    <li>Note that there is significant slowdown on any 386 FM Towns (including the Marty), as well as graphical corruption in the options menu. However, those with a 386 unit who are using the <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODE can boot the game from the Spellbook menu by pressing B to enable <a href="https://gdemu.wordpress.com/2021/04/11/a-dashing-enigma/">fast mode</a>. Additionally, the "WAIT" setting in the options menu should be set to "HALF". These two combined steps will allow non-Marty 386 FM Towns machines to play the game close to full speed.</li>
    </ul>
  <li>Opening and closing scene text has been translated into English.</li>
  <li>Staff credits have been translated into English.</li>
